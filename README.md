@@ -1,16 +1,16 @@
 <h1 align="center">Hi there! 👋 I'm Sudipta Mondal</h1>
 
 <p align="center">
-🚀 <strong>Full-Stack MERN Developer | DSA Enthusiast | C++ Coder</strong> 🚀  
+🚀 <strong>Backend-leaning MERN Developer | DSA Explorer | C++ Programmer</strong> 🚀  
 </p>
 
 ---
 
 ### 👨‍💻 About Me  
-🔹 Passionate **MERN Stack Developer**, building scalable web applications.  
-🔹 Love solving **Data Structures & Algorithms (DSA) problems** using **C++**.  
-🔹 Enthusiastic about **Web Performance Optimization & Backend Architecture**.  
-🔹 Always open to **collaborating on exciting projects** and learning new technologies!  
+🔹 Aspiring **Software Engineer** with a strong interest in **Backend Development**  
+🔹 Building **MERN applications**, focusing on APIs, data flow & business logic  
+🔹 Enjoy solving **DSA problems in C++** to sharpen problem-solving skills  
+🔹 Curious about **System Design, Performance & Scalable Architectures**  
 
 ---
 
@@ -21,42 +21,46 @@
 
 ---
 
-### 🛠 **Tech Stack**
-#### 💻 **Programming Languages**
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+### 🛠 Tech Stack
 
-#### 🌐 **Web Development**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+#### 💻 Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### 🛠 **Tools & Technologies**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+#### 🌐 Web & Backend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### 🧠 Backend Concepts
+- RESTful APIs  
+- MVC Architecture  
+- Authentication & Authorization  
+- MongoDB Indexing & Query Optimization  
+
+#### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📊 **GitHub Stats**
+### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=subirxd&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=subirxd&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sudipta-qh&show_icons=true&theme=tokyonight" />
+  <img height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=sudipta-qh&theme=tokyo-night" />
 </p>
 
 ---
- 
 
----
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-### 🚀 What's Next?  
-✔ Building **scalable MERN applications** with advanced features  
-✔ Exploring **System Design & Optimized Backend Architectures**  
+### 🚀 Currently Focusing On
+✔ Writing cleaner backend logic  
+✔ Understanding real-world system design  
+✔ Moving beyond CRUD to complex workflows  
 
----
-
-⭐ **Let's build something amazing together!** 🚀
+⭐ **Let’s build things that actually scale.**
