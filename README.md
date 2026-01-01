@@ -8,9 +8,18 @@
 
 ### 👨‍💻 About Me  
 🔹 Aspiring **Software Engineer** with a strong interest in **Backend Development**  
+🔹 **Backend Intern @ QuantumHeaps** — working on scalable backend systems & APIs  
 🔹 Building **MERN applications**, focusing on APIs, data flow & business logic  
 🔹 Enjoy solving **DSA problems in C++** to sharpen problem-solving skills  
-🔹 Curious about **System Design, Performance & Scalable Architectures**  
+🔹 Curious about **System Design, Performance & Scalable Architectures**
+
+---
+
+### 🏢 Organizations  
+- **QuantumHeaps** — *Backend Intern*  (**Nov 2025 – Present**)
+  - Contributing to scalable backend systems  
+  - Building and optimizing RESTful APIs  
+  - Working with Node.js, Express & MongoDB  
 
 ---
 
@@ -48,7 +57,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sudipta-qh&show_icons=true&theme=tokyonight" />
-  <img height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=sudipta-qh&theme=tokyo-night" />
+  <img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=sudipta-qh&theme=tokyo-night" />
 </p>
 
 ---
