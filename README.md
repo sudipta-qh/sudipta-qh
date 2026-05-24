@@ -8,18 +8,25 @@
 
 ### 👨‍💻 About Me  
 🔹 Aspiring **Software Engineer** with a strong interest in **Backend Development**  
-🔹 **Backend Intern @ QuantumHeaps** — working on scalable backend systems & APIs  
+🔹 **Backend Intern @ QuantumHeaps** (Nov 2025 – Feb 2026)  
+🔹 **Backend Developer @ QuantumHeaps** (Mar 2026 – Present)  
 🔹 Building **MERN applications**, focusing on APIs, data flow & business logic  
 🔹 Enjoy solving **DSA problems in C++** to sharpen problem-solving skills  
 🔹 Curious about **System Design, Performance & Scalable Architectures**
 
 ---
 
-### 🏢 Organizations  
-- **QuantumHeaps** — *Backend Intern*  (**Nov 2025 – Present**)
+### 🏢 Organizations 
+
+- **QuantumHeaps** — *Backend Developer* (**Mar 2026 – Present**)
+  - Working on scalable backend architecture & APIs  
+  - Building production-ready backend workflows  
+  - Improving performance, maintainability & system reliability
+
+- **QuantumHeaps** — *Backend Intern* (**Nov 2025 – Feb 2026**)
   - Contributing to scalable backend systems  
   - Building and optimizing RESTful APIs  
-  - Working with Node.js, Express & MongoDB  
+  - Working with Node.js, Express & MongoDB    
 
 ---
 
@@ -41,12 +48,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### 🧠 Backend Concepts
-- RESTful APIs  
-- MVC Architecture  
-- Authentication & Authorization  
-- MongoDB Indexing & Query Optimization  
 
 #### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
